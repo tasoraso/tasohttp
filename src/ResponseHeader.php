@@ -1,12 +1,15 @@
 <?php
 
-/*
- * PHP-HTTP (https://github.com/delight-im/PHP-HTTP)
- * Copyright (c) delight.im (https://www.delight.im/)
- * Licensed under the MIT License (https://opensource.org/licenses/MIT)
+/**
+ * Pinga HTTP
+ *
+ * Written in 2023 by Taras Kondratyuk (https://getpinga.com)
+ * Based on PHP-HTTP (https://github.com/delight-im/PHP-HTTP) by delight.im (https://www.delight.im/)
+ *
+ * @license MIT
  */
 
-namespace Delight\Http;
+namespace Pinga\Http;
 
 /** HTTP response headers sent by the server */
 final class ResponseHeader {
