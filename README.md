@@ -1,4 +1,4 @@
-# PHP-HTTP
+# Pinga HTTP
 
 Hypertext Transfer Protocol (HTTP) utilities for PHP
 
