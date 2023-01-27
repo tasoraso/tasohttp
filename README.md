@@ -11,7 +11,7 @@ Hypertext Transfer Protocol (HTTP) utilities for PHP
  1. Include the library via Composer [[?]](https://github.com/delight-im/Knowledge/blob/master/Composer%20(PHP).md):
 
     ```
-    $ composer require delight-im/http
+    $ composer require pinga/http
     ```
 
  1. Include the Composer autoloader:
