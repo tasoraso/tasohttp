@@ -9,7 +9,7 @@
  * @license MIT
  */
 
-namespace Pinga\Http;
+namespace Taso\Http;
 
 /** HTTP response headers sent by the server */
 final class ResponseHeader {
